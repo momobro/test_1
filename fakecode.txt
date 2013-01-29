@@ -10,7 +10,7 @@ void enjoy();
 
 int main()
 {
-    while(true):
+    while (true):
         enjoy();
 
     return 0;
