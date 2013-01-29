@@ -1,3 +1,21 @@
+/* Monte Mishkin
+ * 1/29/13
+ *  
+ *  
+ */
+
+using namespace std;
+
+void enjoy();
+
+int main()
+{
+    while(true):
+        enjoy();
+
+    return 0;
+}
+
 void enjoy()
 {
     cin >> happiness;
